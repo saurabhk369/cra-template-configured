@@ -1,6 +1,6 @@
 {
   "name": "cra-template-configured",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,7 @@
   ],
   "author": "Saurabh Kulkarni",
   "license": "MIT",
-  "description": "CRA tempalte with TypeScript, Tailwind CSS, SCSS, ESLint, and Prettier",
+  "description": "CRA template with TypeScript, Tailwind CSS, SCSS, ESLint, and Prettier",
   "files": [
     "template",
     "template.json"
